@@ -1,13 +1,10 @@
-# Biodiversity In National Parks: Real World
-
----
-### Species found in the American national park system
+# Biodiversity in the United States National Park system
 
 ---
 This project follows from my EDA project [North American Birds of Prey](https://github.com/pineapple-bois/Biodiversity-in-National-Parks) which utilised an abridged version of `species.csv` provided by [Codecademy](https://www.codecademy.com)
 
 ----
-#### There are two datasets
+#### There are two datasets from [Kaggle](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity?select=species.csv) kindly made public domain by the U.S. National Parks Service.
 
 ----
 `parks.csv`
@@ -16,7 +13,7 @@ With Columns;
 - Park Code - National Parks Service park code. 
 - Park Name - Official Park Name
 - State - US State(s) in which park is location
-- Acres - Size of the park (Acres)
+- Acres - Size of the park
 - Latitude 
 - Longitude
 
@@ -38,17 +35,17 @@ With Columns;
 - Nativeness - Is species native/invasive
 - Abundance - Commonality of sightings
 - Seasonality
-- Conservation Status - by IUCN convention
+- Conservation Status - by [IUCN](https://www.iucnredlist.org) convention
 
 ---
 ## Scope of the project
 
-### Birds of Prey
+### Raptors
 Isolating both protected and non-protected species. 
 
-Will focus on a certain geographical area of the United States. Most probably the Southwest.
-- Including;
-Arizona, California, Colorado, Nevada, New Mexico, Oklahoma, Texas & Utah
+Focus on the Southwest United States. Including states;
+
+- Arizona, California, Colorado, Nevada, New Mexico, Oklahoma, Texas & Utah
 
 ---
 #### Technologies used:
@@ -61,6 +58,7 @@ Jupyter Notebooks
 pandas
 matplotlib.pyplot
 matplotlib.patches
+plotly.express
 seaborn
 numpy
 ```
