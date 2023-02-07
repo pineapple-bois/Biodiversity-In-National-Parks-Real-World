@@ -1,0 +1,25 @@
+park_code,park_name,state,latitude,longitude,hectares
+GRCA,Grand Canyon,AZ,36.06,-112.14,492665.95
+PEFO,Petrified Forest,AZ,35.07,-109.78,37851.5
+SAGU,Saguaro,AZ,32.25,-110.5,37004.49
+CHIS,Channel Islands,CA,34.01,-119.42,100993.84
+DEVA,Death Valley,CA,36.24,-116.82,1918580.71
+JOTR,Joshua Tree,CA,33.79,-115.9,319598.75
+LAVO,Lassen Volcanic,CA,40.49,-121.51,43047.26
+PINN,Pinnacles,CA,36.48,-121.16,10767.08
+REDW,Redwood,CA,41.3,-124.0,45532.03
+SEKI,Sequoia & Kings Canyon,CA,36.43,-118.68,350438.65
+YOSE,Yosemite,CA,37.83,-119.5,308073.69
+BLCA,Black Canyon of the Gunnison,CO,38.57,-107.72,13334.4
+GRSA,Great Sand Dunes,CO,37.73,-105.51,17395.02
+MEVE,Mesa Verde,CO,37.18,-108.49,21093.04
+ROMO,Rocky Mountain,CO,40.4,-105.58,107576.87
+GRBA,Great Basin,NV,38.98,-114.3,31233.67
+CAVE,Carlsbad Caverns,NM,32.17,-104.44,18925.55
+BIBE,Big Bend,TX,29.25,-103.25,324219.45
+GUMO,Guadalupe Mountains,TX,31.92,-104.87,34971.35
+ARCH,Arches,UT,38.68,-109.57,30966.17
+BRCA,Bryce Canyon,UT,37.57,-112.18,14501.92
+CANY,Canyonlands,UT,38.2,-109.93,136621.18
+CARE,Capitol Reef,UT,38.2,-111.17,97895.16
+ZION,Zion,UT,37.3,-113.05,59326.16
