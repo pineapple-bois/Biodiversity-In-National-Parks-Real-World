@@ -40,18 +40,34 @@ With Columns;
 ---
 ## Scope of the project
 
-### Raptors
-Isolating both protected and non-protected species. 
+### Birds of Prey
 
-Focus on the Southwest United States. Including states;
+We define birds of prey/predatory birds as [Raptors](https://www.blm.gov/sites/default/files/documents/files/Morley-Nelson-Snake-River-Birds-Of-Prey_More-About-Raptors.pdf) 
 
-- Arizona, California, Colorado, Nevada, New Mexico, Oklahoma, Texas & Utah
+
+Typically, in possession of;
+&nbsp;
+- Hooked beaks
+- Sharp Talons
+- Keen eyesight
+- A hypercarnivous diet
+
+----
+Focusing on the SW U.S. protected and non-protected raptor species are analysed
+
+### `wrangling.ipynb`
+- Data is cleaned and organised
+
+### `analysis.ipynb`
+- Wrangled data is analysed by various metrics
+
 
 ---
 #### Technologies used:
 ```
 Git Zsh
 Jupyter Notebooks
+Tableau
 ```
 #### Libraries used:
 ```
