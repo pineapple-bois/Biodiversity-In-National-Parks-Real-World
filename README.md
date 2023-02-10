@@ -40,7 +40,7 @@ With Columns;
 ---
 ## Scope of the project
 
-### Birds of Prey
+### Birds of Prey in the SW United States.
 
 We define birds of prey/predatory birds as [Raptors](https://www.blm.gov/sites/default/files/documents/files/Morley-Nelson-Snake-River-Birds-Of-Prey_More-About-Raptors.pdf) 
 
@@ -53,14 +53,12 @@ Typically, in possession of;
 - A hypercarnivous diet
 
 ----
-Focusing on the SW U.S. protected and non-protected raptor species are analysed
 
 ### `wrangling.ipynb`
 - Data is cleaned and organised
 
 ### `analysis.ipynb`
-- Wrangled data is analysed by various metrics
-
+- Organised data is analysed 
 
 ---
 #### Technologies used:
