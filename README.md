@@ -54,10 +54,10 @@ Typically, in possession of;
 
 ----
 
-### `wrangling.ipynb`
+### [wrangling.ipynb](https://github.com/pineapple-bois/Biodiversity-In-National-Parks-Real-World/blob/main/wrangling.ipynb)
 - Data is cleaned and organised
 
-### `analysis.ipynb`
+### [analysis.ipynb](https://github.com/pineapple-bois/Biodiversity-In-National-Parks-Real-World/blob/main/analysis.ipynb)
 - Organised data is analysed 
 
 ---
